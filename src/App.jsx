@@ -1,3 +1,4 @@
+import { Experience } from "./components/Experience"
 import { Intro } from "./components/Intro"
 import { Navbar } from "./components/Navbar"
 import { ProjectCard } from "./components/ProjectCard"
@@ -13,6 +14,7 @@ function App() {
         <Intro />
         <Skills />
         <Projects />
+        <Experience />
       </div>
     </>
   )
