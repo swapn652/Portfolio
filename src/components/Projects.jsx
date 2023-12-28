@@ -6,7 +6,7 @@ export const Projects = () => {
     <div
         style={{ fontFamily: 'Marcellus SC, serif' }} 
         className="mx-12 mt-[5rem] flex flex-col items-center justify-center">
-        <h1 className="text-white sm:text-[1.5rem] md:text-[3rem] lg:text-[4rem]">
+        <h1 className="text-white sm:text-[1.5rem] md:text-[2.8rem] lg:text-[4rem]">
             Some projects I have worked on...
         </h1>
 
