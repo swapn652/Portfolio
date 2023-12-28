@@ -22,7 +22,7 @@ export const ProjectCard = ({ title, link, githubLink}) => {
 
             <div className="flex flex-row items-center">
                 <img src="./github_black.png" className="w-[4rem] mt-[1rem]"/>
-                <a href={githubLink} className="text-[1.5rem] ml-[0.6rem] underline">
+                <a href={githubLink} target="_blank" className="text-[1.4rem] ml-[0.6rem] underline">
                     {githubLink}
                 </a>
             </div>

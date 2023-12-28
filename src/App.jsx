@@ -1,6 +1,7 @@
 import { Intro } from "./components/Intro"
 import { Navbar } from "./components/Navbar"
 import { ProjectCard } from "./components/ProjectCard"
+import { Projects } from "./components/Projects"
 import { Skills } from "./components/Skills"
 
 function App() {
@@ -11,7 +12,7 @@ function App() {
         <Navbar />
         <Intro />
         <Skills />
-        <ProjectCard/>
+        <Projects />
       </div>
     </>
   )
