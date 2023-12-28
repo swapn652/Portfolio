@@ -1,3 +1,4 @@
+import { ContactMe } from "./components/ContactMe"
 import { Experience } from "./components/Experience"
 import { Intro } from "./components/Intro"
 import { Navbar } from "./components/Navbar"
@@ -15,6 +16,7 @@ function App() {
         <Skills />
         <Projects />
         <Experience />
+        <ContactMe />
       </div>
     </>
   )
