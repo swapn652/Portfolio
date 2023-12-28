@@ -1,5 +1,6 @@
 import { ContactMe } from "./components/ContactMe"
 import { Experience } from "./components/Experience"
+import { Footer } from "./components/Footer"
 import { Intro } from "./components/Intro"
 import { Navbar } from "./components/Navbar"
 import { ProjectCard } from "./components/ProjectCard"
@@ -17,6 +18,7 @@ function App() {
         <Projects />
         <Experience />
         <ContactMe />
+        <Footer />
       </div>
     </>
   )

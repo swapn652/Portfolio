@@ -4,7 +4,7 @@ export const Experience = () => {
     return (
         <div
             style={{ fontFamily: 'Marcellus SC, serif' }}
-            className="mx-12 mt-[3rem] md:mt-[8rem] flex flex-col items-center justify-center">
+            className="mx-12 mt-[3rem] md:mt-[5rem] lg:mt-[8rem] flex flex-col items-center justify-center">
             <h1 className="text-white sm:text-[1.4rem] md:text-[2.8rem] lg:text-[4rem]">
                 My Professional Journey...
             </h1>

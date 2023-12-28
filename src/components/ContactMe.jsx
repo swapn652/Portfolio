@@ -22,7 +22,7 @@ export const ContactMe = () => {
     return (
         <div
         style={{ fontFamily: 'Marcellus SC, serif' }} 
-        className="mx-12 mt-[3rem] md:mt-[8rem] flex flex-col justify-center">
+        className="mx-12 mt-[3rem] md:mt-[5rem] lg:mt-[8rem] flex flex-col justify-center">
             <h1 className="text-white self-center sm:text-[1.4rem] md:text-[2.8rem] lg:text-[4rem]">Contact Me...</h1>
 
             <div className="flex flex-row mt-[2rem] md:mt-[4rem] gap-x-20 justify-center flex-wrap">
