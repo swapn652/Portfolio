@@ -25,7 +25,7 @@ export const Experience = () => {
                 <div
                     style={{ fontFamily: 'Marcellus, serif' }}
                     className="text-white mt-[1rem] sm:text-[0.6rem] md:text-[1rem] lg:text-[2rem] mx-4 md:mx-12 sm:mb-[2rem] md:mb-[3rem] lg:mb-[4rem]">
-                    • Developed a responsive B2B SaaS web application for a medical services platform using React.js, Tailwind CSS, and Material UI. <br />
+                    • Developed the first phase of a responsive B2B SaaS web application for a medical services platform using React.js, Tailwind CSS, and Material UI. <br />
                     • Created a dynamic home page with a location and symptom-based search bar, which directed users to specific tabs. <br />
                     • Implemented filter menus, sorting options, and price range sliders for user-friendly data access. <br />
                     • Employed React hooks (useState, useEffect, useContext) to manage state and ensure a smooth user experience. <br />
@@ -53,7 +53,7 @@ export const Experience = () => {
                 <div
                     style={{ fontFamily: 'Marcellus, serif' }}
                     className="text-white mt-[1rem] sm:text-[0.6rem] md:text-[1rem] lg:text-[2rem] mx-4 md:mx-12 sm:mb-[2rem] md:mb-[3rem] lg:mb-[4rem]">
-                    • Authored 10 technical articles on programming topics, generating 4000+ views and 120 followers. <br/>
+                    • Authored 10 technical articles on programming topics, generating 4500+ views and 120+ followers. <br/>
                     • <u>Topics</u>: JavaScript (2), TypeScript (1), React (3), Express.js, REST APIs (1), personal projects. <br/>
                     • <u>View Blogs</u>: <a className="cursor-pointer underline" href="https://swapn652.hashnode.dev/">https://swapn652.hashnode.dev/</a><br/>
                 </div>
